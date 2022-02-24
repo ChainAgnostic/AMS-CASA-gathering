@@ -18,14 +18,11 @@ CASA members will present various topics that have been worked on by CASA.
 
 ## Workshops track 1 (14:00 - 17:00)
 
-- [ ] *(suggested):* CASA governance and funding
 - [ ] *(suggested):* Extending CACAO & SIWE to blockhain wallets beyond Ethereum
 - [ ] *(placeholder):* Topics captured during the day
 
 ## Workshops track 2 (14:00 - 17:00)
 
-- [ ] *(suggested):* CASA governance and funding
-- [ ] *(suggested):* Extending CACAO & SIWE to blockhain wallets beyond Ethereum
 - [ ] *(placeholder):* Topics captured during the day
 
 ## Afterparty (18:00 - 22:00)
