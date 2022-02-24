@@ -1,7 +1,7 @@
 # Chain Agnostic Sessions - DevConnect
 
 **Date: 25th April**
-**Location: TBD**
+**Location: Tolhuistuin Amsterdam**
 
 Chain Agnostic Standards Alliance ([CASA](https://github.com/ChainAgnostic/CASA)) is an organization focused on creating standards that enables wallets, protocols, and other blockchain related software to interoperate. On the 25th of April CASA will host a full day event in AMS during DevConnect. Split into two parts presentations during the morning, and circle discussions during the afternoon. 
 
