@@ -23,6 +23,7 @@ We discuss topics in smaller groups in depth here - this is just a collection of
 - [ ] CASA structure / Processes / Governance
 - [ ] Extending CACAO & SIWE to blockhain wallets beyond Ethereum
 - [ ] Chain-Agnostic JSON-RPC Interface
+- [ ] IANA registration of `caip` url namespace
 - [ ] *(placeholder):* Topics captured during the day
 
 ## Afterparty (18:00 - 22:00)
