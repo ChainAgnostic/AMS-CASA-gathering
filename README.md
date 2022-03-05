@@ -13,7 +13,7 @@ CASA members will present various topics that have been worked on by CASA.
 - [ ] Introduction / History of CASA - (Pedro / Ligi)
 - [ ] Chain agnostic namespaces - (Spruce team)
 - [ ] CACAO: Object capabilities in p2p protocols - (Ceramic team)
-- [ ] *(suggested):* CAIPs in WalletConnect - (WalletConnect team)
+- [ ] Chain Agnostic Wallet Interfaces - (WalletConnect team)
 - [ ] *(suggested):* CAIP adoption panel
 
 ## Workshops  (14:00 - 17:00)
@@ -30,4 +30,4 @@ We discuss topics in smaller groups in depth here - this is just a collection of
 
 **Location: TBD**
 
-Join us for an afterparty at *<Location-XY>*, sponsored by Ceramic, Spruce, <Sponsor3>*...
+Join us for an afterparty at *<Location-XY>*, sponsored by Ceramic, Spruce, WalletConnect, <Sponsor3>*...
