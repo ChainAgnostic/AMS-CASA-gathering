@@ -7,6 +7,10 @@ Chain Agnostic Standards Alliance ([CASA](https://github.com/ChainAgnostic/CASA)
 
 In the evening there will be a small afterparty sponsored by some of the CASA members.
 
+# Tickets
+
+Admission will be free - but we will control who is coming via vouchers. Don't be shy to reach out to us for them - we want to be inclusive - just have a bit of control over the influx. Once you have a voucher you can claim the ticket here: https://ticketh.xyz/casa/gathering/
+
 ## Presentations (10:00 - 13:00)
 CASA members will present various topics that have been worked on by CASA.
 
