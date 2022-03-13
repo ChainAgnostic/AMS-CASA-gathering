@@ -6,4 +6,3 @@
 - @pedrouid
 - @briansoule
 - @awoie
-- @ryanli
