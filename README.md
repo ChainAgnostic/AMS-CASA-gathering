@@ -17,19 +17,31 @@ Admission will be free - but we will control who is coming via vouchers. Don't b
 CASA members will present various topics that have been worked on by CASA.
 
 - [ ] Introduction / History of CASA - (Pedro / Ligi)
-- [ ] Chain agnostic namespaces - (Spruce team)
+    - rules of engagement, chain-agnostic etiquette and scope
+- [ ] Chain agnostic namespaces - (@bumblefudge / Spruce)
 - [ ] CACAO: Object capabilities in p2p protocols - (Ceramic team)
 - [ ] Chain Agnostic Wallet Interfaces - (WalletConnect team)
 - [ ] *(suggested):* CAIP adoption panel
+- [ ] Discussion of workshop/unconference format (incl. proposal of additional breakout topics)
 
 ## Workshops  (14:00 - 17:00)
 We discuss topics in smaller groups in depth here - this is just a collection of topics currently. If you have other things to discuss - please reach out!
 
+14.00-14.50
 - [ ] Defining the scope of CAIPS/Namespaces (this came up in the calls regarding including things like GPG
-- [ ] CASA structure / Processes / Governance
-- [ ] Extending CACAO & SIWE to blockhain wallets beyond Ethereum
 - [ ] Chain-Agnostic JSON-RPC Interface
-- [ ] IANA registration of `caip` url namespace
+- [ ] *(placeholder):* Topics captured during the day
+- [ ] *(placeholder):* Topics captured during the day
+
+15.00-15.50
+- [ ] CASA structure / Processes / Governance
+- [ ] Extending CACAO & SIWE to blockhain wallets beyond EVM/WC
+- [ ] *(placeholder):* Topics captured during the day
+- [ ] *(placeholder):* Topics captured during the day
+
+16.00-16.50
+- [ ] IANA registration of `caip` url namespace & other standardization topics
+- [ ] *(placeholder):* Topics captured during the day
 - [ ] *(placeholder):* Topics captured during the day
 
 ## Afterparty (18:00 - 22:00)
