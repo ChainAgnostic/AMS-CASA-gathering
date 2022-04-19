@@ -19,6 +19,7 @@ CASA members will present various topics that have been worked on by CASA.
 - [ ] Introduction / History of CASA - (Pedro / Ligi)
     - rules of engagement, chain-agnostic etiquette and scope
 - [ ] Chain agnostic namespaces - (@bumblefudge / Spruce)
+- [ ] PKH DID - (oed)
 - [ ] CACAO: Object capabilities in p2p protocols - (Ceramic team)
 - [ ] Chain Agnostic Wallet Interfaces - (WalletConnect team)
 - [ ] *(suggested):* CAIP adoption panel
