@@ -22,6 +22,7 @@ CASA members will present various topics that have been worked on by CASA.
 - [ ] PKH DID - (oed)
 - [ ] CACAO: Object capabilities in p2p protocols - (Ceramic team)
 - [ ] Chain Agnostic Wallet Interfaces - (WalletConnect team)
+- [ ] UCANs - (Brooklyn Zelenka)
 - [ ] *(suggested):* CAIP adoption panel
 - [ ] Discussion of workshop/unconference format (incl. proposal of additional breakout topics)
 
