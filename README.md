@@ -18,11 +18,12 @@ CASA members will present various topics that have been worked on by CASA.
 
 - [ ] Introduction / History of CASA - (Pedro / Ligi)
     - rules of engagement, chain-agnostic etiquette and scope
-- [ ] Chain agnostic namespaces - (@bumblefudge / Spruce)
+- [ ] Chain agnostic namespaces - (@bumblefudge)
 - [ ] PKH DID - (oed)
 - [ ] CACAO: Object capabilities in p2p protocols - (Ceramic team)
 - [ ] Chain Agnostic Wallet Interfaces - (WalletConnect team)
 - [ ] UCANs - (Brooklyn Zelenka)
+- [ ] Session keys and generalized capabilities - (Spruce team)
 - [ ] *(suggested):* CAIP adoption panel
 - [ ] Discussion of workshop/unconference format (incl. proposal of additional breakout topics)
 
@@ -46,8 +47,9 @@ We discuss topics in smaller groups in depth here - this is just a collection of
 - [ ] *(placeholder):* Topics captured during the day
 - [ ] *(placeholder):* Topics captured during the day
 
-## Afterparty (18:00 - 22:00)
+## Afterparty (17:30-20:30) 
 
-**Location: TBD**
+THE BUTCHER Social Club
+Overhoeksplein 1, 1031 KS Amsterdam
 
-Join us for an afterparty at *<Location-XY>*, sponsored by Ceramic, Spruce, WalletConnect, CyberConnect, <Sponsor3>*...
+Join us for an afterparty at The Butcher Social Club, sponsored by Ceramic, Spruce, WalletConnect, and CyberConnect.
