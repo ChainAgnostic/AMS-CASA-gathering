@@ -31,14 +31,14 @@ CASA members will present various topics that have been worked on by CASA.
 We discuss topics in smaller groups in depth here - this is just a collection of topics currently. If you have other things to discuss - please reach out!
 
 14.00-14.50
-- [ ] Defining the scope of CAIPS/Namespaces (this came up in the calls regarding including things like GPG
+- [ ] Defining the scope of CAIPS/Namespaces (this came up in the calls regarding including things like GPG)
 - [ ] Chain-Agnostic JSON-RPC Interface
 - [ ] *(placeholder):* Topics captured during the day
 - [ ] *(placeholder):* Topics captured during the day
 
 15.00-15.50
 - [ ] CASA structure / Processes / Governance
-- [ ] Extending CACAO & SIWE to blockhain wallets beyond EVM/WC
+- [ ] Extending CACAO & SIWE to blockchain wallets beyond EVM/WC
 - [ ] *(placeholder):* Topics captured during the day
 - [ ] *(placeholder):* Topics captured during the day
 
