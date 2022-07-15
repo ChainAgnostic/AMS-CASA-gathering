@@ -1,3 +1,5 @@
+moved to: [ChainAgnostic/Gatherings](https://github.com/ChainAgnostic/Gatherings)
+
 # Chain Agnostic Sessions - DevConnect
 
 ![poster](https://github.com/ChainAgnostic/assets/raw/main/events/AMS/CASA_Poster.png)
